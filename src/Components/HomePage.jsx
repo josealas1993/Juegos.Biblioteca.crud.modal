@@ -85,7 +85,7 @@ function HomePage(){
             </div>
             <Carousel.Caption className="position-static w-50 pb-5 m-auto">
               <h3 className="fw-light nombres m-0">Andrea Fortis</h3>
-              <p className="fw-normal ">Programadora en Desarrollo Web Frontend, soy altamente talentosa y he
+              <p className="fw-normal">Programadora en Desarrollo Web Frontend, soy altamente talentosa y he
              experimentado el desarrollo de proyectos de diseño web con HTML, CSS, JavaScript, MySQL y React JS Readux.
               </p>
             </Carousel.Caption>

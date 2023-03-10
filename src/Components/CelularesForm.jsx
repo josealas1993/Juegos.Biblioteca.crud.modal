@@ -148,7 +148,7 @@ function CelularesForm({del, id}){
         </div>
         <div className="form-group mt-2">
           <label className="form-label">precio</label>
-          <input className="form-control" required type="text" value={celular.precio} 
+          <input className="form-control" required type="number" value={celular.precio} 
             onChange={(e) => setCelular({...celular, precio: e.target.value})} disabled={del === true ? true : false} />
           <div className="valid-feedback">Correcto</div>
           <div className="invalid-feedback">Ingrese un precio</div>
